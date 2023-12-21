@@ -1,0 +1,7 @@
+﻿Clone kr k
+Git status se check krte ki kya kya hai uss folder mein 
+Red color mein dikhata hai ki wo abhi tk added nhi hai
+Isiliye fir git add ka use krte add krne k lie fir git status se green color mein show hota matlab ki read ho chuki hai
+Fir git commit kr k usko finally add krte
+End mein git push likh k origin k baad branch likhte jiss se wo github pe upload ho jaati hai
+*
